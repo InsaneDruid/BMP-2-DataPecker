@@ -3,7 +3,8 @@ into loadable files that can be displayed on the Data Becker Hi-Res graphics car
 and my *DataPecker* clone card for the CBM PET 8032 series."""
 
 __author__      = "InsaneDruid"
-__copyright__   = "Copyright 2024, Creative Commons Zero v1.0 Universal"
+__copyright__   = "Copyright 2024"
+__license__     = "Creative Commons Zero v1.0 Universal"
 
 class wrongwidth(Exception):
     pass
